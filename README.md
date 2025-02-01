@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 
 ## 👨‍💻 Author
-Developed by [Your Name](https://github.com/yourusername). Feel free to contribute!
+Developed by https://github.com/Elfaria-Wistoria. Feel free to contribute!
 
 ---
 ✨ Happy Coding! 🚀
