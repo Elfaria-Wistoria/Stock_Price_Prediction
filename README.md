@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-price-predictor.git
+git clone https://github.com/Elfaria-Wistoria/Stock_Price_Prediction.git
 cd stock-price-predictor
 ```
 
@@ -52,12 +52,6 @@ To install all dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
-
-## 📷 Screenshots
-![App Interface](https://your-image-link.com)
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 Developed by [Your Name](https://github.com/yourusername). Feel free to contribute!
